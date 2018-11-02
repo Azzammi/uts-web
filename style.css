@@ -3,7 +3,7 @@ body {
 	margin: 0;
 }
 .container{
-	margin: auto;
+	margin:3em auto;
 	width: 800px;
 	background-color: white;
 	border: 1px solid;
